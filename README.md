@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Felix
 - 👀 I’m interested in Engineering and a liitle bit of programming
-- 🌱 I’m currently an Engineering-Student
+- 🌱 Engineer
 
 <!---
 FlHlf97/FlHlf97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
